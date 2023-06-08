@@ -1,6 +1,6 @@
 # Homebrew formula for darknet (binary only)
 ## How do I install this formula?
-`brew tap gmerlino/darknet` and then `brew install <formula>`.
+`brew tap gmerlino/darknet` and then `brew install --HEAD <formula>`.
 
 Or install via URL (which will not receive updates):
 
